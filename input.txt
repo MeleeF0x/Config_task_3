@@ -1,0 +1,10 @@
+# Объявление констант
+42 -> my_number
+"example" -> my_string
+
+# Словари
+{
+    name = "Alice";
+    age = 25;
+    greeting = [my_string];
+}
